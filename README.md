@@ -5,10 +5,15 @@
 </h1>
 
 <p align="center">
+ <a href="#-como-executar-o-projeto">Como executar</a> •
  <a href="#-sobre-o-projeto">Sobre</a> •
- <a href="#-layout">Layout</a> • 
- <a href="#-como-executar-o-projeto">Como executar</a>
+ <a href="#-layout">Layout</a> 
 </p>
+
+## 🚀 Como executar o projeto
+
+### Power BI Online:
+Clique AQUI para acessar o relatório
 
 ## 💻 Sobre o projeto
 
@@ -44,11 +49,8 @@ O layout da aplicação está disponível no Figma:
 
 ### Web
 
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/web.svg" width="400px">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/sucesso-web.svg" width="400px">
+<p align="center" style="display: block; align-items: flex-start; justify-content: center;">
+  <img alt="Painel 1" title="#Painel 1" src="painel1.png" width="800px">
+  <img alt="Painel 2" title="#Painel 2" src="painel2.png" width="800px">
+  <img alt="Painel 3" title="#Painel 3" src="painel3.png" width="800px">
 </p>
-
-CLIQUE AQUI
-
-## 🚀 Como executar o projeto
