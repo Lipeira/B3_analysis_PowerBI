@@ -7,7 +7,8 @@
 <p align="center">
  <a href="#-como-executar-o-projeto">Como executar</a> •
  <a href="#-sobre-o-projeto">Sobre</a> •
- <a href="#-layout">Layout</a> 
+ <a href="#-layout">Layout</a> •
+ <a href="#-contribuidores">Contribuidores</a> 
 </p>
 
 ## 🚀 Como executar o projeto
@@ -21,6 +22,39 @@ Projeto feito e apresentado na cadeira de Gestão da Informação e Conhecimento
 
 #### Clique [AQUI](https://www.canva.com/design/DAFvlUCWy5I/XBSM4jMk4qCU7XONwDHyPg/edit) para acessar a apresentação Canvas
 #### Clique [AQUI](https://colab.research.google.com/drive/1gkmGIr7Jbpq8SYL4G99ahCIkJgHhIryR?usp=sharing) para acessar a limpeza de dados no COLLAB
+
+## 💻 Contribuidores
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/luis-felipe-araujo-mota-415851210/">
+        <img src="https://avatars.githubusercontent.com/u/83172852?v=4" width="100px;" alt="Foto de Luis Felipe"/><br>
+        <sub>
+          <b>Luis Felipe Mota</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/paulo-vitor-oliveira-431bb118b/">
+        <img src="https://avatars.githubusercontent.com/u/52607671?v=4" width="100px;" alt="Foto do Mark Zuckerberg"/><br>
+        <sub>
+          <b>Paulo Vitor</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/gabriel-laroche-borba-328b31232/">
+        <img src="https://avatars.githubusercontent.com/u/98838565?v=4" width="100px;" alt="Foto do Steve Jobs"/><br>
+        <sub>
+          <b>Gabriel Laroche</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 ## ⚙️ Funcionalidades
 
 - [x] Usuário acessa a Aplicação WEB, podendo visualizar, de cada empresa, além de comparar com outras empresas, na aba ' Visão Geral ':
