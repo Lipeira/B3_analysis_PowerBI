@@ -20,10 +20,10 @@ Clique [AQUI](https://app.powerbi.com/view?r=eyJrIjoiMmRjMDMxYTItMDgxNy00N2Q3LWJ
 Projeto feito e apresentado na cadeira de Gestão da Informação e Conhecimento na Universidade Federal de Pernambuco - Centro de Informática
 
 #### Clique [AQUI](https://www.canva.com/design/DAFvlUCWy5I/XBSM4jMk4qCU7XONwDHyPg/edit) para acessar a apresentação Canvas
-#### Clique [AQUI](https://colab.research.google.com/drive/1gkmGIr7Jbpq8SYL4G99ahCIkJgHhIryR?usp=sharing) para acessar a limpeza de dados no collab
+#### Clique [AQUI](https://colab.research.google.com/drive/1gkmGIr7Jbpq8SYL4G99ahCIkJgHhIryR?usp=sharing) para acessar a limpeza de dados no COLLAB
 ## ⚙️ Funcionalidades
 
-- [x] Usuário acessa a Aplicação WEB, podendo visualizar, de cada empresa:
+- [x] Usuário acessa a Aplicação WEB, podendo visualizar, de cada empresa, além de comparar com outras empresas, na aba ' Visão Geral ':
   - [x] Filtrar por DT_FIM_EXERC
   - [x] Liquidez a Seco
   - [x] Liquidez Corrente
@@ -45,6 +45,30 @@ Projeto feito e apresentado na cadeira de Gestão da Informação e Conhecimento
   - [x] Lucro/Prejuízo Consolidado do Período
   - [x] Outras Despesas Operacionais
   - [x] Despesas Financeiras
+
+- [x] O usuário pode consultar o ranking empresarial na aba ' Ranking ', comparando:
+  - [x] Liquidez a Seco
+  - [x] Liquidez Corrente
+  - [x] Giro
+  - [x] ROA
+  - [x] ROE
+  - [x] Mg_Op
+  - [x] Mg_Liq
+  - [x] Endiv. Total
+  - [x] Endiv. Patrimônio
+  - [x] Endiv. Longo Prazo
+        
+- [x] O usuário pode consultar informações de uma empresa, por meio do botão ' Selecione a empresa ', constando:
+  - [x] CPNJ da Empresa
+  - [x] Nome da Empresa
+  - [x] Situação
+  - [x] Estado
+  - [x] Responsável
+  - [x] CNPJ do Auditor
+  - [x] Nome do Auditor
+  - [x] Detalhamento de Lucros e Despesas
+  - [x] Comparação dos Indicadores Individuais      
+      
 ---
 
 ## 🎨 Layout
