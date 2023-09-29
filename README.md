@@ -13,29 +13,20 @@
 ## 🚀 Como executar o projeto
 
 ### Power BI Online:
-Clique AQUI para acessar o relatório
+Clique [AQUI](https://app.powerbi.com/view?r=eyJrIjoiMmRjMDMxYTItMDgxNy00N2Q3LWJjMTAtZWM0N2EyODg0NDkxIiwidCI6IjliYWY5MmM5LTJlNDgtNGRmZi05NTQ3LTdjNmJhNzhkZTlhNiJ9) para acessar o relatório online
 
 ## 💻 Sobre o projeto
 
----
+#### Clique [AQUI](https://www.canva.com/design/DAFvlUCWy5I/XBSM4jMk4qCU7XONwDHyPg/edit) para acessar a apresentação Canvas
+#### Clique [AQUI](https://www.figma.com/file/Rdz7kR3iDQkwgQOYUkZo0S/GIC?type=design&node-id=0-1&mode=design) para acessar o link do FIGMA
 
 ## ⚙️ Funcionalidades
 
-- [x] Empresas ou entidades podem se cadastrar na plataforma web enviando:
-  - [x] uma imagem do ponto de coleta
-  - [x] nome da entidade, email e whatsapp
-  - [x] e o endereço para que ele possa aparecer no mapa
-  - [x] além de selecionar um ou mais ítens de coleta: 
-    - lâmpadas
-    - pilhas e baterias
-    - papéis e papelão
-    - resíduos eletrônicos
-    - resíduos orgânicos
-    - óleo de cozinha
-
-- [x] Os usuários tem acesso ao aplicativo móvel, onde podem:
-  - [x] navegar pelo mapa para ver as instituições cadastradas
-  - [x] entrar em contato com a entidade através do E-mail ou do WhatsApp
+- [x] Usuário acessa a Aplicação WEB, podendo visualizar
+  - [x]
+  - [x] 
+  - [x] 
+  - [x] 
 
 ---
 
