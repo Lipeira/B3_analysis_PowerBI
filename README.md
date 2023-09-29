@@ -17,16 +17,34 @@ Clique [AQUI](https://app.powerbi.com/view?r=eyJrIjoiMmRjMDMxYTItMDgxNy00N2Q3LWJ
 
 ## 💻 Sobre o projeto
 
-#### Clique [AQUI](https://www.canva.com/design/DAFvlUCWy5I/XBSM4jMk4qCU7XONwDHyPg/edit) para acessar a apresentação Canvas
+Projeto feito e apresentado na cadeira de Gestão da Informação e Conhecimento na Universidade Federal de Pernambuco - Centro de Informática
 
+#### Clique [AQUI](https://www.canva.com/design/DAFvlUCWy5I/XBSM4jMk4qCU7XONwDHyPg/edit) para acessar a apresentação Canvas
+#### Clique [AQUI](https://colab.research.google.com/drive/1gkmGIr7Jbpq8SYL4G99ahCIkJgHhIryR?usp=sharing) para acessar a limpeza de dados no collab
 ## ⚙️ Funcionalidades
 
-- [x] Usuário acessa a Aplicação WEB, podendo visualizar
-  - [x]
-  - [x] 
-  - [x] 
-  - [x] 
-
+- [x] Usuário acessa a Aplicação WEB, podendo visualizar, de cada empresa:
+  - [x] Filtrar por DT_FIM_EXERC
+  - [x] Liquidez a Seco
+  - [x] Liquidez Corrente
+  - [x] Capital Circulante
+  - [x] Líquido	Giro
+  - [x] ROA
+  - [x] ROE
+  - [x] Mg_op
+  - [x] Mg_liq
+  - [x] EndivRelação
+  - [x] EndivGeralCurtoPrazo
+  - [x] EndivLongoPrazo
+  - [x] Passivo Circulante
+  - [x] Passivo Não Circulante
+  - [x] Ativo Total
+  - [x] Patrimônio Líquido Consolidado
+  - [x] Receita de Venda de Bens e/ou Serviços
+  - [x] Resultado Antes do Resultado Financeiro e dos Tributos
+  - [x] Lucro/Prejuízo Consolidado do Período
+  - [x] Outras Despesas Operacionais
+  - [x] Despesas Financeiras
 ---
 
 ## 🎨 Layout
