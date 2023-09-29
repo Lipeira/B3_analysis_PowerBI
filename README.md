@@ -18,7 +18,6 @@ Clique [AQUI](https://app.powerbi.com/view?r=eyJrIjoiMmRjMDMxYTItMDgxNy00N2Q3LWJ
 ## 💻 Sobre o projeto
 
 #### Clique [AQUI](https://www.canva.com/design/DAFvlUCWy5I/XBSM4jMk4qCU7XONwDHyPg/edit) para acessar a apresentação Canvas
-#### Clique [AQUI](https://www.figma.com/file/Rdz7kR3iDQkwgQOYUkZo0S/GIC?type=design&node-id=0-1&mode=design) para acessar o link do FIGMA
 
 ## ⚙️ Funcionalidades
 
@@ -34,7 +33,7 @@ Clique [AQUI](https://app.powerbi.com/view?r=eyJrIjoiMmRjMDMxYTItMDgxNy00N2Q3LWJ
 
 O layout da aplicação está disponível no Figma:
 
-<a href="https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/Ecoleta?node-id=136%3A546">
+<a href="https://www.figma.com/file/Rdz7kR3iDQkwgQOYUkZo0S/GIC?type=design&node-id=0-1&mode=design">
   <img alt="Made by tgmarinho" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
 </a>
 
